@@ -14,7 +14,7 @@ RESTful API to simulate simple banking operations.
 1. Checkout the project from GitHub
 
 ```
-git clone 
+git clone https://github.com/TonyMwangi/springboot-bankApp.git
 
 ```
 2. Enable Lombok support on your IDE
